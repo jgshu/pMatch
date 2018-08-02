@@ -7,7 +7,7 @@ Proxy-Free Privacy-Preserving Task Matching with Efficient Revocation in Crowdso
 
 (2). Charm-Crypto https://jhuisi.github.io/charm/install_source.html
 
-2. Program to crawl the task can be seen in https://github.com/billion01/MTurkTrackerData
+2. Program to crawl tasks from Mturk can be seen in https://github.com/billion01/MTurkTrackerData
 
 3. Dataset and Index can be downloaded from https://pan.baidu.com/disk/home?#/all?vmode=list&path=%2FCrowdsourcing%20task%20dataset
 
